@@ -1,6 +1,4 @@
-# frontend_issues
-frontend_issues
-
+# frontend_issues and learn
 
 ## GET과 POST의 차이
 
